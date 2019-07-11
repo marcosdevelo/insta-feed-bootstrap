@@ -1,0 +1,67 @@
+body{background: white;}
+.navbar-brand span{font-size: 33px;}
+a {color:gray;}
+a:hover {
+    color:gray;
+    background:gainsboro;
+}
+
+
+.nav-tabs {border:none;}
+.nav-tabs .nav-link {border:none;}
+.nav-tabs .nav-link.active {
+    color: white;
+    background-color: gray;
+}
+
+p {
+    margin: 0px;
+    font-size: 20px;
+    }
+
+
+    .card {
+        margin: 0 auto;
+        float: none;
+        margin-bottom: 10px;
+        margin-top:50px;
+}
+
+span {
+    float: right;
+    padding-top: 7px;
+    padding-right:10px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+.fake-image {
+    height: 333px;
+    background-position: center;
+    background-size: cover;
+    border: 1px solid white;
+}
+
+.row.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+.card-body {
+    padding: 0.25rem;
+}
+
+h2{
+    background-color: rgb(128, 128, 129);
+}
